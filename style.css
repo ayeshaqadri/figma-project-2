@@ -114,7 +114,7 @@ span{
   }
   .card3{
     margin-left: 80px;      }
-  .im{z-index: -2;position:absolute ;}
+  .im{z-index: -2;position:absolute ;width: 85%;}
   .om{z-index: 2; position: relative;}
   @media screen and (max-width: 890px) {
     .second img{
